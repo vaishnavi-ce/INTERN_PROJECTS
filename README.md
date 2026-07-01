@@ -1,9 +1,5 @@
 # INTERN_PROJECTS
-Internship Projects in C including Matrix Operations, Student Management System, and Bank Management System using Functions, Structures, Arrays, and File Handling.
-
-# INTERN_PROJECTS
-
-This repository contains my C programming projects completed as part of the CodeAlpha Internship.
+Internship Projects in C including Matrix Operations, Student Management System, and Bank Management System using Functions, Structures, Arrays, and File Handling
 
 ## Projects Included
 
